@@ -1,0 +1,6 @@
+github.com/sour-is/bitcoin v0.0.0-20180314143529-d37365313634 h1:/5Db9ZUWN5OKSSH6rCS4LWVQW7UyreF/xXQQJO1bJMY=
+github.com/sour-is/bitcoin v0.0.0-20180314143529-d37365313634/go.mod h1:qhRG4VkT0I4nVh+HuOxrruUNU54ujeaTPOv3GQiy5EA=
+github.com/sour-is/koblitz v0.0.0-20140508155619-28d92784add2 h1:P2eKnnMxl+BRHwbI8B6bMJhr37vjPOL9KuO5dN9fX90=
+github.com/sour-is/koblitz v0.0.0-20140508155619-28d92784add2/go.mod h1:OTR/Xc08O82ueoBQ4vGqKYJbp+Tj56oYIP9Q3iyruCY=
+golang.org/x/crypto v0.27.0 h1:GXm2NjJrPaiv/h1tb2UH8QfgC/hOf/+z0p6PT8o1w7A=
+golang.org/x/crypto v0.27.0/go.mod h1:1Xngt8kV6Dvbssa53Ziq6Eqn0HqbZi5Z6R0ZpwQzt70=
